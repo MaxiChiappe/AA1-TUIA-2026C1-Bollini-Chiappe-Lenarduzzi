@@ -32,8 +32,6 @@ El análisis se divide en las siguientes etapas:
 2. **Carga e inspección del dataset**
 3. **Análisis descriptivo**
 4. **Feature Engineering**
-   - Cálculo de distancias (métrica Manhattan)
-   - Procesamiento de fechas
 5. **Limpieza de datos**
 6. **División Train-Test**
 7. **Modelado con regresión lineal**
