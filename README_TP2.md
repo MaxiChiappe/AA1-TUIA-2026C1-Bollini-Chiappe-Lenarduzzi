@@ -3,7 +3,6 @@
 Este proyecto tiene como objetivo desarrollar modelos de clasificación capaces de predecir si lloverá al día siguiente utilizando datos meteorológicos históricos de distintas ciudades de Australia.
 
 ## 👨‍💻 Integrantes
-- Bollini, Lorenzo  
 - Chiappe, Maximiliano  
 - Lenarduzzi, Juan  
 
